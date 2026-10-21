@@ -33,9 +33,30 @@ We would like to hear from developers and researchers who:
 - Work on model deployment, compilers, or inference optimization
 - Want to discuss the challenges of complex AI workflows
 
-Tell us what you are building, what you use today, and what you would need to evaluate a new computing platform.
+### What would you need to verify?
+
+Before evaluating a new AI computing platform, what would you need to verify first?
+
+- Model and operator support
+- Toolchain compatibility and integration with existing software
+- End-to-end performance and memory requirements
+- Migration and adaptation effort
+- SDK access, documentation, and licensing terms
+
+These are questions we would like to discuss, not a list of capabilities currently available from SingNova.
+
+### Working on a relevant project?
+
+Email us at [info@nanyang-singtech.com](mailto:info@nanyang-singtech.com) with a short description of:
+
+- What you are building
+- Your current hardware and software stack
+- The main challenge you are facing
+
+We would like to understand your requirements and explore whether there is a useful conversation to have. Please share only information you are comfortable disclosing; confidential project details are not needed.
 
 - [Website](https://singnova.net)
 - [Email](mailto:info@nanyang-singtech.com)
 - [X](https://x.com/NanyangSingtech)
 - [LinkedIn](https://sg.linkedin.com/company/nanyang-singtech)
+
