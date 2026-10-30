@@ -24,6 +24,12 @@ We do not yet have public code, SDK downloads, or reproducible benchmarks availa
 
 As we publish technical materials, we will clearly distinguish verified results, work in progress, and future plans.
 
+## Engineering notes
+
+[Profiling a YOLOv12s browser-to-device video pipeline](https://github.com/nanyang-singtech/.github/blob/main/records/vision/yolov12s-browser-device-pipeline.md)
+
+Engineering-supplied observations from one prototype implementation, covering preprocessing, accelerator inference, frame dropping and timing boundaries. Not a reproducible benchmark.
+
 ## Let's connect
 
 We would like to hear from developers and researchers who:
